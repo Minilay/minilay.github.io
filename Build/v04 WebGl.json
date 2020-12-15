@@ -1,0 +1,16 @@
+{
+"companyName": "minicom",
+"productName": "PolyJohn",
+"productVersion": "0.3",
+"dataUrl": "v04 WebGl.data.unityweb",
+"wasmCodeUrl": "v04 WebGl.wasm.code.unityweb",
+"wasmFrameworkUrl": "v04 WebGl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
